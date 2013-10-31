@@ -1,6 +1,4 @@
 test
 ====
 
-This is just a test repository used to test the Github plugin of Jenkins
-
-another try!
+I am testing this
