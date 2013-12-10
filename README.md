@@ -26,3 +26,5 @@ dec 10 - change 1, 2, 3
 edit master
 
 dec 10 - new branch
+
+dec 10 1409 edit master directly
