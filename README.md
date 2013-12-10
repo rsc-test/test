@@ -21,4 +21,4 @@ dec 6 - change 1
 
 change 2
 
-dec 10 - change 1
+dec 10 - change 1, 2
