@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo HamBurger
+echo Hamburger with cheese
