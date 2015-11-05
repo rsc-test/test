@@ -1,8 +1,3 @@
 language: bash
 
 script: bash ./test.sh
-
-notifications:
-  webhooks:
-    urls:
-      - https://kannan1-hooks-403.test.rightscale.com/projects/60073/hook_deliveries/mAJ5lLQErdNSOHdps0_dWoqqsqpc2OotUGxfb2clGvepzDqT3mOErA==/actions/deliver
