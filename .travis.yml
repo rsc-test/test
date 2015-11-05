@@ -5,4 +5,4 @@ script: bash ./test.sh
 notifications:
   webhooks:
     urls:
-      - https://kannan1-hooks-403.test.rightscale.com/projects/60073/hook_deliveries/NLyoYeK0KbNvJS-RRfDswnKbkTXRHv9UXvR18_7tlGGBow7hBrdJRg==/actions/deliver
+      - https://kannan1-hooks-403.test.rightscale.com/projects/60073/hook_deliveries/FFyExWeoomNTgqPpVV34uqMcqHAI8yMBe3G2IZ2hwX1Sj5FqAcdQ7g==/actions/deliver
